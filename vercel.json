@@ -1,6 +1,8 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "api/*.js", "use": "@vercel/node" }
+  "rewrites": [
+    {
+      "source": "/api/claim",
+      "destination": "https://faucet-api.nervos.org/claim_events"
+    }
   ]
 }
