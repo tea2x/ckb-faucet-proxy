@@ -1,0 +1,14 @@
+{
+  "name": "backend-proxy-ckb-faucet",
+  "version": "1.0.0",
+  "description": "Proxy ckb faucet API call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tea2x",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

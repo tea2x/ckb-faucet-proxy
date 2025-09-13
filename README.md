@@ -1,0 +1,1 @@
+Proxy call to the official CKB faucet https://faucet.nervos.org/
