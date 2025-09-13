@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/claim",
-      "destination": "https://faucet-api.nervos.org/claim_events"
-    }
-  ]
-}
